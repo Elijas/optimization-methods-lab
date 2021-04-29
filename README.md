@@ -1,2 +1,2 @@
-# Spausti čia:
-https://nbviewer.jupyter.org/github/Elijas/optimization-methods-lab/blob/master/lab.ipynb
+- **[Peržiūrėti darbą](https://nbviewer.jupyter.org/github/Elijas/optimization-methods-lab/blob/master/lab.ipynb)**
+- [Kitų laboratorinių darbų sąrašas](https://github.com/Elijas/statistikos-laboratoriniai-darbai)
